@@ -1,0 +1,10 @@
+* coleslaw
+
+Flexible Lisp Blogware
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/coleslaw-org/coleslaw.git   |
+| commit  | e7e68ce  |
+| systems | coleslaw |
+|---------+-------------------------------------------|
+
