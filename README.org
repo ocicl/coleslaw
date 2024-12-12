@@ -4,6 +4,6 @@ Flexible Lisp Blogware
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/coleslaw-org/coleslaw.git |
-| commit  | 73d7c6b                                          |
+| commit  | ef76a42                                          |
 | systems | coleslaw                                         |
 |---------+--------------------------------------------------|
